@@ -67,8 +67,9 @@
 
 
 
-##FAKE NEWS DETECTER ALERT
-       ![WhatsApp Image 2024-02-28 at 21 05 18_0a69d5d7](https://github.com/ashfaq-khan14/fake-news-detecter/assets/120010803/6a87f4e1-2c90-48fb-9207-7433db7bed82)
+# FAKE NEWS DETECTER ALERT
+
+  - ![WhatsApp Image 2024-02-28 at 21 05 18_0a69d5d7](https://github.com/ashfaq-khan14/fake-news-detecter/assets/120010803/6a87f4e1-2c90-48fb-9207-7433db7bed82)
 
 ---
 
